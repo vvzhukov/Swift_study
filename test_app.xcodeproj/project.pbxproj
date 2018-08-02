@@ -14,6 +14,7 @@
 		180E8F682113400100B5B0F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 180E8F662113400100B5B0F4 /* LaunchScreen.storyboard */; };
 		180E8F732113400100B5B0F4 /* test_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180E8F722113400100B5B0F4 /* test_appTests.swift */; };
 		180E8F7E2113400100B5B0F4 /* test_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180E8F7D2113400100B5B0F4 /* test_appUITests.swift */; };
+		180E8F8C211345BA00B5B0F4 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = 180E8F8B211345BA00B5B0F4 /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		180E8F792113400100B5B0F4 /* test_appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test_appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		180E8F7D2113400100B5B0F4 /* test_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test_appUITests.swift; sourceTree = "<group>"; };
 		180E8F7F2113400100B5B0F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		180E8F8B211345BA00B5B0F4 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		180E8F5C2113400000B5B0F4 /* test_app */ = {
 			isa = PBXGroup;
 			children = (
+				180E8F8B211345BA00B5B0F4 /* hustle-on.wav */,
 				180E8F5D2113400000B5B0F4 /* AppDelegate.swift */,
 				180E8F5F2113400000B5B0F4 /* ViewController.swift */,
 				180E8F612113400000B5B0F4 /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				180E8F8C211345BA00B5B0F4 /* hustle-on.wav in Resources */,
 				180E8F682113400100B5B0F4 /* LaunchScreen.storyboard in Resources */,
 				180E8F652113400100B5B0F4 /* Assets.xcassets in Resources */,
 				180E8F632113400000B5B0F4 /* Main.storyboard in Resources */,
